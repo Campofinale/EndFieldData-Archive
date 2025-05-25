@@ -6,3 +6,4 @@
 ## Credits:
 - [BeyondTools](https://git.crepe.moe/rfi/BeyondTools)
 - Hiro for 0.5.28 files
+- FrothierNine346 for Json of 0.5.5
