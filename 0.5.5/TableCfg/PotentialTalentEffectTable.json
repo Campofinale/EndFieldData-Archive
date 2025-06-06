@@ -280,9 +280,9 @@
       {
         "attrModifier": {
           "attrType": 22,
-          "attrValue": -2.3534379293677286E-185,
-          "modifierType": -1078355559,
-          "modifyAttributeType": 1
+          "attrValue": -0.1,
+          "modifierType": 0,
+          "modifyAttributeType": -1717986918
         },
         "modifyType": 4,
         "newSkill": {
@@ -326,9 +326,9 @@
       {
         "attrModifier": {
           "attrType": 22,
-          "attrValue": -2.3534379293677286E-185,
-          "modifierType": -1078355559,
-          "modifyAttributeType": 1
+          "attrValue": -0.1,
+          "modifierType": 0,
+          "modifyAttributeType": -1717986918
         },
         "modifyType": 4,
         "newSkill": {
@@ -1456,9 +1456,9 @@
       {
         "attrModifier": {
           "attrType": 2,
-          "attrValue": -2.3534379293677286E-185,
-          "modifierType": 1069128089,
-          "modifyAttributeType": 6
+          "attrValue": 0.1,
+          "modifierType": 0,
+          "modifyAttributeType": -1717986918
         },
         "modifyType": 4,
         "newSkill": {
@@ -1482,9 +1482,9 @@
       {
         "attrModifier": {
           "attrType": 9,
-          "attrValue": -2.3534379293677286E-185,
-          "modifierType": 1068079513,
-          "modifyAttributeType": 5
+          "attrValue": 0.05,
+          "modifierType": 0,
+          "modifyAttributeType": -1717986918
         },
         "modifyType": 4,
         "newSkill": {
@@ -1997,9 +1997,9 @@
       {
         "attrModifier": {
           "attrType": 2,
-          "attrValue": -2.3534379293677286E-185,
-          "modifierType": 1069128089,
-          "modifyAttributeType": 6
+          "attrValue": 0.1,
+          "modifierType": 0,
+          "modifyAttributeType": -1717986918
         },
         "modifyType": 4,
         "newSkill": {
@@ -2023,9 +2023,9 @@
       {
         "attrModifier": {
           "attrType": 10,
-          "attrValue": -2.3534379293677286E-185,
-          "modifierType": 1069128089,
-          "modifyAttributeType": 5
+          "attrValue": 0.1,
+          "modifierType": 0,
+          "modifyAttributeType": -1717986918
         },
         "modifyType": 4,
         "newSkill": {
@@ -2389,9 +2389,9 @@
       {
         "attrModifier": {
           "attrType": 39,
-          "attrValue": 0,
-          "modifierType": 1077149696,
-          "modifyAttributeType": 5
+          "attrValue": 20,
+          "modifierType": 0,
+          "modifyAttributeType": 0
         },
         "modifyType": 4,
         "newSkill": {
@@ -2415,9 +2415,9 @@
       {
         "attrModifier": {
           "attrType": 40,
-          "attrValue": 0,
-          "modifierType": 1077149696,
-          "modifyAttributeType": 5
+          "attrValue": 20,
+          "modifierType": 0,
+          "modifyAttributeType": 0
         },
         "modifyType": 4,
         "newSkill": {
@@ -3035,9 +3035,9 @@
       {
         "attrModifier": {
           "attrType": 2,
-          "attrValue": 4.667260716554626E-62,
-          "modifierType": 1069757235,
-          "modifyAttributeType": 6
+          "attrValue": 0.15,
+          "modifierType": 0,
+          "modifyAttributeType": 858993459
         },
         "modifyType": 4,
         "newSkill": {
@@ -4149,9 +4149,9 @@
       {
         "attrModifier": {
           "attrType": 3,
-          "attrValue": 0,
-          "modifierType": 1077149696,
-          "modifyAttributeType": 5
+          "attrValue": 20,
+          "modifierType": 0,
+          "modifyAttributeType": 0
         },
         "modifyType": 4,
         "newSkill": {
@@ -4175,9 +4175,9 @@
       {
         "attrModifier": {
           "attrType": 42,
-          "attrValue": 0,
-          "modifierType": 1077149696,
-          "modifyAttributeType": 5
+          "attrValue": 20,
+          "modifierType": 0,
+          "modifyAttributeType": 0
         },
         "modifyType": 4,
         "newSkill": {
@@ -4832,9 +4832,9 @@
       {
         "attrModifier": {
           "attrType": 2,
-          "attrValue": -2.3534379293677286E-185,
-          "modifierType": 1069128089,
-          "modifyAttributeType": 6
+          "attrValue": 0.1,
+          "modifierType": 0,
+          "modifyAttributeType": -1717986918
         },
         "modifyType": 4,
         "newSkill": {
@@ -4858,9 +4858,9 @@
       {
         "attrModifier": {
           "attrType": 29,
-          "attrValue": -2.3534379293677286E-185,
-          "modifierType": 1069128089,
-          "modifyAttributeType": 5
+          "attrValue": 0.1,
+          "modifierType": 0,
+          "modifyAttributeType": -1717986918
         },
         "modifyType": 4,
         "newSkill": {
@@ -5642,9 +5642,9 @@
       {
         "attrModifier": {
           "attrType": 2,
-          "attrValue": -2.3534379293677286E-185,
-          "modifierType": 1069128089,
-          "modifyAttributeType": 6
+          "attrValue": 0.1,
+          "modifierType": 0,
+          "modifyAttributeType": -1717986918
         },
         "modifyType": 4,
         "newSkill": {
@@ -5668,9 +5668,9 @@
       {
         "attrModifier": {
           "attrType": 10,
-          "attrValue": -2.3534379293677286E-185,
-          "modifierType": 1069128089,
-          "modifyAttributeType": 5
+          "attrValue": 0.1,
+          "modifierType": 0,
+          "modifyAttributeType": -1717986918
         },
         "modifyType": 4,
         "newSkill": {
@@ -6715,9 +6715,9 @@
       {
         "attrModifier": {
           "attrType": 3,
-          "attrValue": 0,
-          "modifierType": 1077149696,
-          "modifyAttributeType": 5
+          "attrValue": 20,
+          "modifierType": 0,
+          "modifyAttributeType": 0
         },
         "modifyType": 4,
         "newSkill": {
@@ -6741,9 +6741,9 @@
       {
         "attrModifier": {
           "attrType": 42,
-          "attrValue": 0,
-          "modifierType": 1077805056,
-          "modifyAttributeType": 5
+          "attrValue": 30,
+          "modifierType": 0,
+          "modifyAttributeType": 0
         },
         "modifyType": 4,
         "newSkill": {
@@ -7072,9 +7072,9 @@
       {
         "attrModifier": {
           "attrType": 39,
-          "attrValue": 0,
-          "modifierType": 1076756480,
-          "modifyAttributeType": 5
+          "attrValue": 15,
+          "modifierType": 0,
+          "modifyAttributeType": 0
         },
         "modifyType": 4,
         "newSkill": {
@@ -7098,9 +7098,9 @@
       {
         "attrModifier": {
           "attrType": 40,
-          "attrValue": 0,
-          "modifierType": 1076756480,
-          "modifyAttributeType": 5
+          "attrValue": 15,
+          "modifierType": 0,
+          "modifyAttributeType": 0
         },
         "modifyType": 4,
         "newSkill": {
@@ -7124,9 +7124,9 @@
       {
         "attrModifier": {
           "attrType": 41,
-          "attrValue": 0,
-          "modifierType": 1076756480,
-          "modifyAttributeType": 5
+          "attrValue": 15,
+          "modifierType": 0,
+          "modifyAttributeType": 0
         },
         "modifyType": 4,
         "newSkill": {
@@ -7150,9 +7150,9 @@
       {
         "attrModifier": {
           "attrType": 42,
-          "attrValue": 0,
-          "modifierType": 1076756480,
-          "modifyAttributeType": 5
+          "attrValue": 15,
+          "modifierType": 0,
+          "modifyAttributeType": 0
         },
         "modifyType": 4,
         "newSkill": {
@@ -8022,9 +8022,9 @@
       {
         "attrModifier": {
           "attrType": 9,
-          "attrValue": -2.3534379293677286E-185,
-          "modifierType": 1068079513,
-          "modifyAttributeType": 5
+          "attrValue": 0.05,
+          "modifierType": 0,
+          "modifyAttributeType": -1717986918
         },
         "modifyType": 4,
         "newSkill": {
@@ -8048,9 +8048,9 @@
       {
         "attrModifier": {
           "attrType": 41,
-          "attrValue": 0,
-          "modifierType": 1077149696,
-          "modifyAttributeType": 5
+          "attrValue": 20,
+          "modifierType": 0,
+          "modifyAttributeType": 0
         },
         "modifyType": 4,
         "newSkill": {
@@ -8926,9 +8926,9 @@
       {
         "attrModifier": {
           "attrType": 2,
-          "attrValue": -2.3534379293677286E-185,
-          "modifierType": 1069128089,
-          "modifyAttributeType": 6
+          "attrValue": 0.1,
+          "modifierType": 0,
+          "modifyAttributeType": -1717986918
         },
         "modifyType": 4,
         "newSkill": {
@@ -8952,9 +8952,9 @@
       {
         "attrModifier": {
           "attrType": 9,
-          "attrValue": -2.3534379293677286E-185,
-          "modifierType": 1068079513,
-          "modifyAttributeType": 5
+          "attrValue": 0.05,
+          "modifierType": 0,
+          "modifyAttributeType": -1717986918
         },
         "modifyType": 4,
         "newSkill": {
@@ -9596,9 +9596,9 @@
       {
         "attrModifier": {
           "attrType": 39,
-          "attrValue": 0,
-          "modifierType": 1077149696,
-          "modifyAttributeType": 5
+          "attrValue": 20,
+          "modifierType": 0,
+          "modifyAttributeType": 0
         },
         "modifyType": 4,
         "newSkill": {
@@ -9622,9 +9622,9 @@
       {
         "attrModifier": {
           "attrType": 42,
-          "attrValue": 0,
-          "modifierType": 1077149696,
-          "modifyAttributeType": 5
+          "attrValue": 20,
+          "modifierType": 0,
+          "modifyAttributeType": 0
         },
         "modifyType": 4,
         "newSkill": {

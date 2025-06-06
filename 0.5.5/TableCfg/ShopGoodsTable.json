@@ -4641,6 +4641,25 @@
     "unlockConditions": [],
     "weaponGachaPoolId": ""
   },
+  "weekly_payshop_wpn_lance_0007_2": {
+    "cnDiscount": 1,
+    "goodsId": "weekly_payshop_wpn_lance_0007_2",
+    "isShowWhenLock": true,
+    "limitCount": 1,
+    "limitCountRefreshType": 4,
+    "lockDesc": {
+      "id": "",
+      "text": ""
+    },
+    "moneyId": "item_gachabyproducts_weapongold",
+    "price": 780,
+    "relatedWeaponGachPoolId": "weaponbox_2025_2_1",
+    "rewardId": "reward_payshop_wpn_lance_0007",
+    "shopId": "shop_pay_weapon_weekly",
+    "sortId": 6,
+    "unlockConditions": [],
+    "weaponGachaPoolId": ""
+  },
   "weekly_payshop_wpn_pistol_0007": {
     "cnDiscount": 1,
     "goodsId": "weekly_payshop_wpn_pistol_0007",
@@ -4657,6 +4676,25 @@
     "rewardId": "reward_payshop_wpn_pistol_0007",
     "shopId": "shop_pay_weapon_weekly",
     "sortId": 1,
+    "unlockConditions": [],
+    "weaponGachaPoolId": ""
+  },
+  "weekly_payshop_wpn_pistol_0007_2": {
+    "cnDiscount": 1,
+    "goodsId": "weekly_payshop_wpn_pistol_0007_2",
+    "isShowWhenLock": true,
+    "limitCount": 1,
+    "limitCountRefreshType": 4,
+    "lockDesc": {
+      "id": "",
+      "text": ""
+    },
+    "moneyId": "item_gachabyproducts_weapongold",
+    "price": 2580,
+    "relatedWeaponGachPoolId": "weaponbox_2025_2_1",
+    "rewardId": "reward_payshop_wpn_pistol_0007",
+    "shopId": "shop_pay_weapon_weekly",
+    "sortId": 5,
     "unlockConditions": [],
     "weaponGachaPoolId": ""
   },
@@ -4679,6 +4717,25 @@
     "unlockConditions": [],
     "weaponGachaPoolId": ""
   },
+  "weekly_payshop_wpn_sword_0010_2": {
+    "cnDiscount": 1,
+    "goodsId": "weekly_payshop_wpn_sword_0010_2",
+    "isShowWhenLock": true,
+    "limitCount": 1,
+    "limitCountRefreshType": 4,
+    "lockDesc": {
+      "id": "",
+      "text": ""
+    },
+    "moneyId": "item_gachabyproducts_weapongold",
+    "price": 780,
+    "relatedWeaponGachPoolId": "weaponbox_2025_2_2",
+    "rewardId": "reward_payshop_wpn_sword_0010",
+    "shopId": "shop_pay_weapon_weekly",
+    "sortId": 8,
+    "unlockConditions": [],
+    "weaponGachaPoolId": ""
+  },
   "weekly_payshop_wpn_sword_0011": {
     "cnDiscount": 1,
     "goodsId": "weekly_payshop_wpn_sword_0011",
@@ -4695,6 +4752,25 @@
     "rewardId": "reward_payshop_wpn_sword_0011",
     "shopId": "shop_pay_weapon_weekly",
     "sortId": 3,
+    "unlockConditions": [],
+    "weaponGachaPoolId": ""
+  },
+  "weekly_payshop_wpn_sword_0011_2": {
+    "cnDiscount": 1,
+    "goodsId": "weekly_payshop_wpn_sword_0011_2",
+    "isShowWhenLock": true,
+    "limitCount": 1,
+    "limitCountRefreshType": 4,
+    "lockDesc": {
+      "id": "",
+      "text": ""
+    },
+    "moneyId": "item_gachabyproducts_weapongold",
+    "price": 2580,
+    "relatedWeaponGachPoolId": "weaponbox_2025_2_2",
+    "rewardId": "reward_payshop_wpn_sword_0011",
+    "shopId": "shop_pay_weapon_weekly",
+    "sortId": 7,
     "unlockConditions": [],
     "weaponGachaPoolId": ""
   },
@@ -4735,5 +4811,43 @@
     "sortId": 2,
     "unlockConditions": [],
     "weaponGachaPoolId": "weaponbox_2025_1_1"
+  },
+  "weekly_weaponbox_2025_2_1": {
+    "cnDiscount": 1,
+    "goodsId": "weekly_weaponbox_2025_2_1",
+    "isShowWhenLock": false,
+    "limitCount": 0,
+    "limitCountRefreshType": 0,
+    "lockDesc": {
+      "id": "",
+      "text": ""
+    },
+    "moneyId": "item_gachabyproducts_weapongold",
+    "price": 2980,
+    "relatedWeaponGachPoolId": "weaponbox_2025_2_1",
+    "rewardId": "",
+    "shopId": "shop_pay_weapon_weekly",
+    "sortId": 3,
+    "unlockConditions": [],
+    "weaponGachaPoolId": "weaponbox_2025_2_1"
+  },
+  "weekly_weaponbox_2025_2_2": {
+    "cnDiscount": 1,
+    "goodsId": "weekly_weaponbox_2025_2_2",
+    "isShowWhenLock": false,
+    "limitCount": 0,
+    "limitCountRefreshType": 0,
+    "lockDesc": {
+      "id": "",
+      "text": ""
+    },
+    "moneyId": "item_gachabyproducts_weapongold",
+    "price": 2980,
+    "relatedWeaponGachPoolId": "weaponbox_2025_2_2",
+    "rewardId": "",
+    "shopId": "shop_pay_weapon_weekly",
+    "sortId": 4,
+    "unlockConditions": [],
+    "weaponGachaPoolId": "weaponbox_2025_2_2"
   }
 }

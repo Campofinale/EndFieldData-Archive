@@ -84,8 +84,8 @@
     "attrModifiers": [
       {
         "attrType": 12,
-        "attrValue": 0,
-        "modifierType": 1079574528,
+        "attrValue": 100,
+        "modifierType": 0,
         "modifyAttributeType": 0
       }
     ],
@@ -241,15 +241,15 @@
     "attrModifiers": [
       {
         "attrType": 20,
-        "attrValue": 0,
-        "modifierType": 1078853632,
+        "attrValue": 60,
+        "modifierType": 0,
         "modifyAttributeType": 0
       },
       {
         "attrType": 1,
-        "attrValue": 1.203943252576827E+240,
-        "modifierType": 1072809756,
-        "modifyAttributeType": 4
+        "attrValue": 1.11111111111111,
+        "modifierType": 0,
+        "modifyAttributeType": 1908874349
       }
     ],
     "attrTemplateId": "eny_0018_lbtough",
@@ -286,9 +286,9 @@
     "attrModifiers": [
       {
         "attrType": 1,
-        "attrValue": 4.2769804971223216E+86,
-        "modifierType": -1076552008,
-        "modifyAttributeType": 1
+        "attrValue": -0.33,
+        "modifierType": 0,
+        "modifyAttributeType": 1374389535
       }
     ],
     "attrTemplateId": "eny_0018_lbtough",
@@ -386,15 +386,15 @@
     "attrModifiers": [
       {
         "attrType": 2,
-        "attrValue": -2.3534379293677286E-185,
-        "modifierType": -1078355559,
-        "modifyAttributeType": 1
+        "attrValue": -0.1,
+        "modifierType": 0,
+        "modifyAttributeType": -1717986918
       },
       {
         "attrType": 1,
-        "attrValue": -2.3534379293677286E-185,
-        "modifierType": -1078355559,
-        "modifyAttributeType": 1
+        "attrValue": -0.1,
+        "modifierType": 0,
+        "modifyAttributeType": -1717986918
       }
     ],
     "attrTemplateId": "eny_0021_agmelee",
@@ -425,9 +425,9 @@
     "attrModifiers": [
       {
         "attrType": 1,
-        "attrValue": 0,
-        "modifierType": 1083129856,
-        "modifyAttributeType": 1
+        "attrValue": 1000,
+        "modifierType": 0,
+        "modifyAttributeType": 0
       }
     ],
     "attrTemplateId": "eny_0021_agmelee",
@@ -456,15 +456,15 @@
     "attrModifiers": [
       {
         "attrType": 1,
-        "attrValue": 4.667260716554626E-62,
-        "modifierType": 1071854387,
-        "modifyAttributeType": 4
+        "attrValue": 0.6,
+        "modifierType": 0,
+        "modifyAttributeType": 858993459
       },
       {
         "attrType": 2,
-        "attrValue": -2.3534379293677286E-185,
-        "modifierType": -1075209831,
-        "modifyAttributeType": 1
+        "attrValue": -0.8,
+        "modifierType": 0,
+        "modifyAttributeType": -1717986918
       }
     ],
     "attrTemplateId": "eny_0021_agmelee",
@@ -482,15 +482,15 @@
     "attrModifiers": [
       {
         "attrType": 1,
-        "attrValue": 4.667260716554626E-62,
-        "modifierType": 1071854387,
-        "modifyAttributeType": 4
+        "attrValue": 0.6,
+        "modifierType": 0,
+        "modifyAttributeType": 858993459
       },
       {
         "attrType": 2,
-        "attrValue": -2.3534379293677286E-185,
-        "modifierType": -1075209831,
-        "modifyAttributeType": 1
+        "attrValue": -0.8,
+        "modifierType": 0,
+        "modifyAttributeType": -1717986918
       }
     ],
     "attrTemplateId": "eny_0021_agmelee_prolog2",
@@ -508,15 +508,15 @@
     "attrModifiers": [
       {
         "attrType": 1,
-        "attrValue": 4.667260716554626E-62,
-        "modifierType": 1071854387,
-        "modifyAttributeType": 4
+        "attrValue": 0.6,
+        "modifierType": 0,
+        "modifyAttributeType": 858993459
       },
       {
         "attrType": 2,
-        "attrValue": -2.3534379293677286E-185,
-        "modifierType": -1075209831,
-        "modifyAttributeType": 1
+        "attrValue": -0.8,
+        "modifierType": 0,
+        "modifyAttributeType": -1717986918
       }
     ],
     "attrTemplateId": "eny_0021_agmelee",
@@ -632,15 +632,15 @@
     "attrModifiers": [
       {
         "attrType": 2,
-        "attrValue": 0,
-        "modifierType": 1072693248,
-        "modifyAttributeType": 1
+        "attrValue": 1,
+        "modifierType": 0,
+        "modifyAttributeType": 0
       },
       {
         "attrType": 1,
-        "attrValue": 0,
-        "modifierType": -1075838976,
-        "modifyAttributeType": 1
+        "attrValue": -0.5,
+        "modifierType": 0,
+        "modifyAttributeType": 0
       }
     ],
     "attrTemplateId": "eny_0023_aghornb",
@@ -682,21 +682,21 @@
     "attrModifiers": [
       {
         "attrType": 1,
-        "attrValue": -2.3534379293677286E-185,
-        "modifierType": 1072273817,
-        "modifyAttributeType": 4
+        "attrValue": 0.8,
+        "modifierType": 0,
+        "modifyAttributeType": -1717986918
       },
       {
         "attrType": 20,
-        "attrValue": 0,
-        "modifierType": -1067581440,
+        "attrValue": -120,
+        "modifierType": 0,
         "modifyAttributeType": 0
       },
       {
         "attrType": 2,
-        "attrValue": -2.3534379293677286E-185,
-        "modifierType": -1075209831,
-        "modifyAttributeType": 1
+        "attrValue": -0.8,
+        "modifierType": 0,
+        "modifyAttributeType": -1717986918
       }
     ],
     "attrTemplateId": "eny_0023_aghornb",
@@ -715,15 +715,15 @@
     "attrModifiers": [
       {
         "attrType": 20,
-        "attrValue": 0,
-        "modifierType": 1079246848,
+        "attrValue": 80,
+        "modifierType": 0,
         "modifyAttributeType": 0
       },
       {
         "attrType": 1,
-        "attrValue": 0,
-        "modifierType": 1074003968,
-        "modifyAttributeType": 4
+        "attrValue": 2.5,
+        "modifierType": 0,
+        "modifyAttributeType": 0
       }
     ],
     "attrTemplateId": "eny_0023_aghornb",
@@ -852,15 +852,15 @@
     "attrModifiers": [
       {
         "attrType": 2,
-        "attrValue": -2.3534379293677286E-185,
-        "modifierType": -1078355559,
-        "modifyAttributeType": 1
+        "attrValue": -0.1,
+        "modifierType": 0,
+        "modifyAttributeType": -1717986918
       },
       {
         "attrType": 1,
-        "attrValue": -2.3534379293677286E-185,
-        "modifierType": -1078355559,
-        "modifyAttributeType": 1
+        "attrValue": -0.1,
+        "modifierType": 0,
+        "modifyAttributeType": -1717986918
       }
     ],
     "attrTemplateId": "eny_0025_agrange",
@@ -902,21 +902,21 @@
     "attrModifiers": [
       {
         "attrType": 12,
-        "attrValue": 0,
-        "modifierType": 1076101120,
+        "attrValue": 10,
+        "modifierType": 0,
         "modifyAttributeType": 0
       },
       {
         "attrType": 1,
-        "attrValue": 4.667260716554626E-62,
-        "modifierType": -1075629261,
-        "modifyAttributeType": 1
+        "attrValue": -0.6,
+        "modifierType": 0,
+        "modifyAttributeType": 858993459
       },
       {
         "attrType": 2,
-        "attrValue": -2.3534379293677286E-185,
-        "modifierType": -1075209831,
-        "modifyAttributeType": 1
+        "attrValue": -0.8,
+        "modifierType": 0,
+        "modifyAttributeType": -1717986918
       }
     ],
     "attrTemplateId": "eny_0025_agrange",
@@ -1058,15 +1058,15 @@
     "attrModifiers": [
       {
         "attrType": 2,
-        "attrValue": 0,
-        "modifierType": 1072693248,
-        "modifyAttributeType": 1
+        "attrValue": 1,
+        "modifierType": 0,
+        "modifyAttributeType": 0
       },
       {
         "attrType": 1,
-        "attrValue": 0,
-        "modifierType": -1075838976,
-        "modifyAttributeType": 1
+        "attrValue": -0.5,
+        "modifierType": 0,
+        "modifyAttributeType": 0
       }
     ],
     "attrTemplateId": "eny_0027_agscorp",
@@ -1097,15 +1097,15 @@
     "attrModifiers": [
       {
         "attrType": 20,
-        "attrValue": 0,
-        "modifierType": -1072431104,
+        "attrValue": -5,
+        "modifierType": 0,
         "modifyAttributeType": 0
       },
       {
         "attrType": 2,
-        "attrValue": -9.25596411572893E+61,
-        "modifierType": -1075524404,
-        "modifyAttributeType": 1
+        "attrValue": -0.65,
+        "modifierType": 0,
+        "modifyAttributeType": -858993459
       }
     ],
     "attrTemplateId": "eny_0027_agscorp",
@@ -1232,9 +1232,9 @@
     "attrModifiers": [
       {
         "attrType": 1,
-        "attrValue": 0,
-        "modifierType": 1083129856,
-        "modifyAttributeType": 1
+        "attrValue": 1000,
+        "modifierType": 0,
+        "modifyAttributeType": 0
       }
     ],
     "attrTemplateId": "eny_0029_lbmob",
@@ -1518,9 +1518,9 @@
     "attrModifiers": [
       {
         "attrType": 1,
-        "attrValue": 0,
-        "modifierType": 1072693248,
-        "modifyAttributeType": 4
+        "attrValue": 1,
+        "modifierType": 0,
+        "modifyAttributeType": 0
       }
     ],
     "attrTemplateId": "eny_0045_agtrinit",
@@ -1653,15 +1653,15 @@
     "attrModifiers": [
       {
         "attrType": 20,
-        "attrValue": 0,
-        "modifierType": 1079246848,
+        "attrValue": 80,
+        "modifierType": 0,
         "modifyAttributeType": 0
       },
       {
         "attrType": 1,
-        "attrValue": 0,
-        "modifierType": 1074003968,
-        "modifyAttributeType": 4
+        "attrValue": 2.5,
+        "modifierType": 0,
+        "modifyAttributeType": 0
       }
     ],
     "attrTemplateId": "eny_0046_lbshamman",
@@ -1791,15 +1791,15 @@
     "attrModifiers": [
       {
         "attrType": 20,
-        "attrValue": 0,
-        "modifierType": 1079083008,
+        "attrValue": 70,
+        "modifierType": 0,
         "modifyAttributeType": 0
       },
       {
         "attrType": 1,
-        "attrValue": 0,
-        "modifierType": 1074003968,
-        "modifyAttributeType": 4
+        "attrValue": 2.5,
+        "modifierType": 0,
+        "modifyAttributeType": 0
       }
     ],
     "attrTemplateId": "eny_0047_firebat",
@@ -1933,15 +1933,15 @@
     "attrModifiers": [
       {
         "attrType": 20,
-        "attrValue": 0,
-        "modifierType": 1077805056,
+        "attrValue": 30,
+        "modifierType": 0,
         "modifyAttributeType": 0
       },
       {
         "attrType": 1,
-        "attrValue": 1.203943252576827E+240,
-        "modifierType": 1072809756,
-        "modifyAttributeType": 4
+        "attrValue": 1.11111111111111,
+        "modifierType": 0,
+        "modifyAttributeType": 1908874349
       }
     ],
     "attrTemplateId": "eny_0048_hvybow",
@@ -2380,15 +2380,15 @@
     "attrModifiers": [
       {
         "attrType": 20,
-        "attrValue": 0,
-        "modifierType": 1078198272,
+        "attrValue": 40,
+        "modifierType": 0,
         "modifyAttributeType": 0
       },
       {
         "attrType": 1,
-        "attrValue": 1.203943252576827E+240,
-        "modifierType": 1073858332,
-        "modifyAttributeType": 4
+        "attrValue": 2.22222222222222,
+        "modifierType": 0,
+        "modifyAttributeType": 1908874349
       }
     ],
     "attrTemplateId": "eny_0054_hsmino",

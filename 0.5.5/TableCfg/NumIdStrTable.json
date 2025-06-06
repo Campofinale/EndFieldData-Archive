@@ -467,7 +467,9 @@
     "dic": {
       "1": "beginner_2024_12_1",
       "2": "special_2024_12_1",
-      "3": "special_2025_1_1"
+      "3": "special_2025_1_1",
+      "4": "special_2025_1_2",
+      "5": "special_2025_1_3"
     }
   },
   "char_id": {
@@ -6941,7 +6943,13 @@
       "389": "daily_payshop_wpn_lance_0003",
       "390": "daily_payshop_wpn_sword_0008",
       "392": "weekly_payshop_wpn_sword_0010",
-      "393": "constant_payshop_wpn_funnel_0004"
+      "393": "constant_payshop_wpn_funnel_0004",
+      "407": "weekly_weaponbox_2025_2_2",
+      "409": "weekly_weaponbox_2025_2_1",
+      "410": "weekly_payshop_wpn_sword_0011_2",
+      "411": "weekly_payshop_wpn_pistol_0007_2",
+      "412": "weekly_payshop_wpn_sword_0010_2",
+      "413": "weekly_payshop_wpn_lance_0007_2"
     }
   },
   "skill_group_id": {
@@ -8188,7 +8196,9 @@
       "4": "weaponbox_2025_1_1",
       "5": "weaponbox_constant_1",
       "6": "weaponbox_constant_2",
-      "7": "weaponbox_constant_3"
+      "7": "weaponbox_constant_3",
+      "8": "weaponbox_2025_2_2",
+      "9": "weaponbox_2025_2_1"
     }
   },
   "weapon_gem_term_id": {

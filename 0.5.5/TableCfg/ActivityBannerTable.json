@@ -23,6 +23,22 @@
     "index": 4,
     "jumpId": "jump_gacha_limit_2"
   },
+  "test_char_gacha_2025_2": {
+    "bannerId": "test_char_gacha_2025_2",
+    "bannerType": 0,
+    "corrSysId": "special_2025_1_2",
+    "image": "laevat_banner",
+    "index": 5,
+    "jumpId": "jump_gacha_limit_3"
+  },
+  "test_char_gacha_2025_3": {
+    "bannerId": "test_char_gacha_2025_3",
+    "bannerType": 0,
+    "corrSysId": "special_2025_1_3",
+    "image": "yvonne_banner",
+    "index": 6,
+    "jumpId": "jump_gacha_limit_4"
+  },
   "test_weapon_gacha": {
     "bannerId": "test_weapon_gacha",
     "bannerType": 1,

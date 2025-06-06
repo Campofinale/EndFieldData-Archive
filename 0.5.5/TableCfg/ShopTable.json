@@ -281,8 +281,14 @@
       "weekly_payshop_wpn_lance_0007",
       "weekly_payshop_wpn_sword_0011",
       "weekly_payshop_wpn_sword_0010",
+      "weekly_payshop_wpn_pistol_0007_2",
+      "weekly_payshop_wpn_lance_0007_2",
+      "weekly_payshop_wpn_sword_0011_2",
+      "weekly_payshop_wpn_sword_0010_2",
       "weekly_weaponbox_2024_12_1",
-      "weekly_weaponbox_2025_1_1"
+      "weekly_weaponbox_2025_1_1",
+      "weekly_weaponbox_2025_2_1",
+      "weekly_weaponbox_2025_2_2"
     ],
     "shopGroupId": "shop_pay_weapon",
     "shopGroupNumber": 1,

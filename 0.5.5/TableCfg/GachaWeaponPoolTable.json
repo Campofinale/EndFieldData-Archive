@@ -59,6 +59,66 @@
       "wpn_pistol_0008"
     ]
   },
+  "weaponbox_2025_2_1": {
+    "closeTimes": [
+      "2025/6/7 14:00:00",
+      "2025/9/1 14:00:00",
+      "2025/9/1 14:00:00"
+    ],
+    "desc": {
+      "id": "ADE60F97FEAB13A5",
+      "text": ""
+    },
+    "id": "weaponbox_2025_2_1",
+    "name": {
+      "id": "324CEEB91EC367A4",
+      "text": ""
+    },
+    "openTimes": [
+      "2025/6/6 14:00:00",
+      "2025/8/31 14:00:00",
+      "2025/8/31 14:00:00"
+    ],
+    "type": 0,
+    "upWeaponDesc": {
+      "id": "3E3B34FB2B776637",
+      "text": ""
+    },
+    "upWeaponIcon": "icon_weaponbox_2024_12_1",
+    "upWeaponIds": [
+      "wpn_sword_0006"
+    ]
+  },
+  "weaponbox_2025_2_2": {
+    "closeTimes": [
+      "2025/6/8 14:00:00",
+      "2025/9/2 14:00:00",
+      "2025/9/2 14:00:00"
+    ],
+    "desc": {
+      "id": "3FF8575A35AA9922",
+      "text": ""
+    },
+    "id": "weaponbox_2025_2_2",
+    "name": {
+      "id": "BF1C03DA15C21F3B",
+      "text": ""
+    },
+    "openTimes": [
+      "2025/6/7 14:00:00",
+      "2025/9/1 14:00:00",
+      "2025/9/1 14:00:00"
+    ],
+    "type": 0,
+    "upWeaponDesc": {
+      "id": "61162ED96946136B",
+      "text": ""
+    },
+    "upWeaponIcon": "icon_weaponbox_2025_1_1",
+    "upWeaponIds": [
+      "wpn_pistol_0008"
+    ]
+  },
   "weaponbox_constant_1": {
     "closeTimes": [],
     "desc": {

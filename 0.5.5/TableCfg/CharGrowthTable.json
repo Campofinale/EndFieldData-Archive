@@ -1141,9 +1141,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 40,
-            "attrValue": 0,
-            "modifierType": 1075052544,
-            "modifyAttributeType": 5
+            "attrValue": 5,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 1,
           "desc": {
@@ -1189,9 +1189,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 40,
-            "attrValue": 0,
-            "modifierType": 1076101120,
-            "modifyAttributeType": 5
+            "attrValue": 10,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 2,
           "desc": {
@@ -1237,9 +1237,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 40,
-            "attrValue": 0,
-            "modifierType": 1076756480,
-            "modifyAttributeType": 5
+            "attrValue": 15,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 3,
           "desc": {
@@ -2750,9 +2750,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 40,
-            "attrValue": 0,
-            "modifierType": 1075052544,
-            "modifyAttributeType": 5
+            "attrValue": 5,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 1,
           "desc": {
@@ -2798,9 +2798,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 40,
-            "attrValue": 0,
-            "modifierType": 1076101120,
-            "modifyAttributeType": 5
+            "attrValue": 10,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 2,
           "desc": {
@@ -2846,9 +2846,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 40,
-            "attrValue": 0,
-            "modifierType": 1076756480,
-            "modifyAttributeType": 5
+            "attrValue": 15,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 3,
           "desc": {
@@ -4358,9 +4358,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 41,
-            "attrValue": 0,
-            "modifierType": 1075052544,
-            "modifyAttributeType": 5
+            "attrValue": 5,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 1,
           "desc": {
@@ -4406,9 +4406,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 41,
-            "attrValue": 0,
-            "modifierType": 1076101120,
-            "modifyAttributeType": 5
+            "attrValue": 10,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 2,
           "desc": {
@@ -4454,9 +4454,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 41,
-            "attrValue": 0,
-            "modifierType": 1076756480,
-            "modifyAttributeType": 5
+            "attrValue": 15,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 3,
           "desc": {
@@ -6159,9 +6159,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 40,
-            "attrValue": 0,
-            "modifierType": 1075052544,
-            "modifyAttributeType": 5
+            "attrValue": 5,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 1,
           "desc": {
@@ -6207,9 +6207,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 40,
-            "attrValue": 0,
-            "modifierType": 1076101120,
-            "modifyAttributeType": 5
+            "attrValue": 10,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 2,
           "desc": {
@@ -6255,9 +6255,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 40,
-            "attrValue": 0,
-            "modifierType": 1076756480,
-            "modifyAttributeType": 5
+            "attrValue": 15,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 3,
           "desc": {
@@ -7959,9 +7959,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 39,
-            "attrValue": 0,
-            "modifierType": 1075052544,
-            "modifyAttributeType": 5
+            "attrValue": 5,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 1,
           "desc": {
@@ -8007,9 +8007,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 39,
-            "attrValue": 0,
-            "modifierType": 1076101120,
-            "modifyAttributeType": 5
+            "attrValue": 10,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 2,
           "desc": {
@@ -8055,9 +8055,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 39,
-            "attrValue": 0,
-            "modifierType": 1076756480,
-            "modifyAttributeType": 5
+            "attrValue": 15,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 3,
           "desc": {
@@ -9760,9 +9760,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 40,
-            "attrValue": 0,
-            "modifierType": 1075052544,
-            "modifyAttributeType": 5
+            "attrValue": 5,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 1,
           "desc": {
@@ -9808,9 +9808,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 40,
-            "attrValue": 0,
-            "modifierType": 1076101120,
-            "modifyAttributeType": 5
+            "attrValue": 10,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 2,
           "desc": {
@@ -9856,9 +9856,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 40,
-            "attrValue": 0,
-            "modifierType": 1076756480,
-            "modifyAttributeType": 5
+            "attrValue": 15,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 3,
           "desc": {
@@ -11560,9 +11560,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 39,
-            "attrValue": 0,
-            "modifierType": 1075052544,
-            "modifyAttributeType": 5
+            "attrValue": 5,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 1,
           "desc": {
@@ -11608,9 +11608,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 39,
-            "attrValue": 0,
-            "modifierType": 1076101120,
-            "modifyAttributeType": 5
+            "attrValue": 10,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 2,
           "desc": {
@@ -11656,9 +11656,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 39,
-            "attrValue": 0,
-            "modifierType": 1076756480,
-            "modifyAttributeType": 5
+            "attrValue": 15,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 3,
           "desc": {
@@ -13361,9 +13361,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 42,
-            "attrValue": 0,
-            "modifierType": 1075052544,
-            "modifyAttributeType": 5
+            "attrValue": 5,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 1,
           "desc": {
@@ -13409,9 +13409,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 42,
-            "attrValue": 0,
-            "modifierType": 1076101120,
-            "modifyAttributeType": 5
+            "attrValue": 10,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 2,
           "desc": {
@@ -13457,9 +13457,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 42,
-            "attrValue": 0,
-            "modifierType": 1076756480,
-            "modifyAttributeType": 5
+            "attrValue": 15,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 3,
           "desc": {
@@ -15162,9 +15162,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 42,
-            "attrValue": 0,
-            "modifierType": 1075052544,
-            "modifyAttributeType": 5
+            "attrValue": 5,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 1,
           "desc": {
@@ -15210,9 +15210,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 42,
-            "attrValue": 0,
-            "modifierType": 1076101120,
-            "modifyAttributeType": 5
+            "attrValue": 10,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 2,
           "desc": {
@@ -15258,9 +15258,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 42,
-            "attrValue": 0,
-            "modifierType": 1076756480,
-            "modifyAttributeType": 5
+            "attrValue": 15,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 3,
           "desc": {
@@ -16962,9 +16962,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 42,
-            "attrValue": 0,
-            "modifierType": 1075052544,
-            "modifyAttributeType": 5
+            "attrValue": 5,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 1,
           "desc": {
@@ -17010,9 +17010,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 42,
-            "attrValue": 0,
-            "modifierType": 1076101120,
-            "modifyAttributeType": 5
+            "attrValue": 10,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 2,
           "desc": {
@@ -17058,9 +17058,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 42,
-            "attrValue": 0,
-            "modifierType": 1076756480,
-            "modifyAttributeType": 5
+            "attrValue": 15,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 3,
           "desc": {
@@ -18762,9 +18762,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 39,
-            "attrValue": 0,
-            "modifierType": 1075052544,
-            "modifyAttributeType": 5
+            "attrValue": 5,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 1,
           "desc": {
@@ -18810,9 +18810,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 39,
-            "attrValue": 0,
-            "modifierType": 1076101120,
-            "modifyAttributeType": 5
+            "attrValue": 10,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 2,
           "desc": {
@@ -18858,9 +18858,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 39,
-            "attrValue": 0,
-            "modifierType": 1076756480,
-            "modifyAttributeType": 5
+            "attrValue": 15,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 3,
           "desc": {
@@ -20563,9 +20563,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 40,
-            "attrValue": 0,
-            "modifierType": 1075052544,
-            "modifyAttributeType": 5
+            "attrValue": 5,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 1,
           "desc": {
@@ -20611,9 +20611,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 40,
-            "attrValue": 0,
-            "modifierType": 1076101120,
-            "modifyAttributeType": 5
+            "attrValue": 10,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 2,
           "desc": {
@@ -20659,9 +20659,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 40,
-            "attrValue": 0,
-            "modifierType": 1076756480,
-            "modifyAttributeType": 5
+            "attrValue": 15,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 3,
           "desc": {
@@ -22368,9 +22368,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 41,
-            "attrValue": 0,
-            "modifierType": 1075052544,
-            "modifyAttributeType": 5
+            "attrValue": 5,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 1,
           "desc": {
@@ -22416,9 +22416,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 41,
-            "attrValue": 0,
-            "modifierType": 1076101120,
-            "modifyAttributeType": 5
+            "attrValue": 10,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 2,
           "desc": {
@@ -22464,9 +22464,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 41,
-            "attrValue": 0,
-            "modifierType": 1076756480,
-            "modifyAttributeType": 5
+            "attrValue": 15,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 3,
           "desc": {
@@ -24175,9 +24175,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 41,
-            "attrValue": 0,
-            "modifierType": 1075052544,
-            "modifyAttributeType": 5
+            "attrValue": 5,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 1,
           "desc": {
@@ -24223,9 +24223,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 41,
-            "attrValue": 0,
-            "modifierType": 1076101120,
-            "modifyAttributeType": 5
+            "attrValue": 10,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 2,
           "desc": {
@@ -24271,9 +24271,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 41,
-            "attrValue": 0,
-            "modifierType": 1076756480,
-            "modifyAttributeType": 5
+            "attrValue": 15,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 3,
           "desc": {
@@ -25975,9 +25975,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 39,
-            "attrValue": 0,
-            "modifierType": 1075052544,
-            "modifyAttributeType": 5
+            "attrValue": 5,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 1,
           "desc": {
@@ -26023,9 +26023,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 39,
-            "attrValue": 0,
-            "modifierType": 1076101120,
-            "modifyAttributeType": 5
+            "attrValue": 10,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 2,
           "desc": {
@@ -26071,9 +26071,9 @@
         "attributeNodeInfo": {
           "attributeModifier": {
             "attrType": 39,
-            "attrValue": 0,
-            "modifierType": 1076756480,
-            "modifyAttributeType": 5
+            "attrValue": 15,
+            "modifierType": 0,
+            "modifyAttributeType": 0
           },
           "breakStage": 3,
           "desc": {
